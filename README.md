@@ -6,6 +6,8 @@ Projeto de Pagina de Art Galery, pagina baseada em uma pagina de Galeria de Arte
 
 ![Art Gallery](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_900/Challenges/a74z6wximrmadlsa91ri.jpg)
 
+![Street Page](https://res.cloudinary.com/dz209s6jk/image/upload/v1638448557/Challenges/yfb1v550thgeyv09zj8l.jpg)
+
 
 ## Deploy
 
